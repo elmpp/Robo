@@ -1,11 +1,11 @@
 {
-    "name": "consolidation/robo",
+    "name": "elmpp/robo",
     "description": "Modern task runner",
     "license": "MIT",
     "authors": [
         {
             "name": "Davert",
-            "email": "davert.php@resend.cc"
+            "email": "matthew.penrice@gmail.com"
         }
     ],
     "autoload":{
@@ -51,6 +51,6 @@
 
     },
     "replace": {
-        "codegyre/robo": "< 1.0"
+        "elmpp/robo": "< 1.0"
     }
 }
